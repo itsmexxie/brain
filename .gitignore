@@ -1,0 +1,6 @@
+# Obsidian stuff
+.obsidian
+
+# Images
+**/*.png
+**/*.jpg

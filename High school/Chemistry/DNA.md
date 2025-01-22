@@ -1,0 +1,2 @@
+- nucleic acid
+- composed of [[Nucleotides|nucleotides]]

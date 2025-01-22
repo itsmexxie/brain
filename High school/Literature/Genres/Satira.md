@@ -1,0 +1,3 @@
+- způsob literárního vyjádření
+- využívání komičnosti a výsměchu ke kritice záporných jevů a nedostatků jednotlivců, institucí či samotné společnosti
+- většinou používá silné ironie nebo sarkasmu (neplést satira x sarkasmus!)

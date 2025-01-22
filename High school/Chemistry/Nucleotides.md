@@ -1,0 +1,5 @@
+- monomer units of the nucleic acid polymers (DNA & RNA)
+- composed of three molecules: a nucleobase, a five-carbon sugar (pentose) and a phosphate group
+- the structure changes based on the type of nucleic acid
+- **RNA** - contains *ribose* as its pentose and can contain A, **U**, G, C nucleobases
+- **DNA** - contains *deoxyribose* as its pentose and can contain A, **T**, G, C nucleobases
