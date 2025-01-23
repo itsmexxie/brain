@@ -9,7 +9,7 @@
 - zde potkal svoji budoucí a nynější manželku, Yoko
 - jeho pracovní kariéru začal jako prodavač v malém obchodě s deskami (pozn.: dle mého názoru můžeme tuto skutečnost vidět i v Norském dřevu, Toru tam pracuje přesně v takovém obchodě)
 - těsně před koncem jeho studia otevřel jazzový bar v Tokyu, který řídil spolu se svojí manželkou od roku 1974 do 1981
-- je bezdětný (pozn.: i know i loved him)
+- je bezdětný
 # Dílo
-- mezi jeho nejznámější díla patří bezesporu *Norské dřevo* (1987, jinak: *Norwegian Wood*, *Noruwei no Mori*), pojednávající o mladém klukovi, který se snaží vypořádat se ztrátou jeho starého světa a s přijmutím toho nového
-- dále bychom zde zařadili například *Kafka na břehu* (2002, jinak: *Kafka on the Shore*, *Umibe no Kafuka*) nebo *1Q84* (2009 - 2010)
+- mezi jeho nejznámější díla patří bezesporu *Norské dřevo* (1987, jinak *Norwegian Wood*, v originále *Noruwei no Mori*), pojednávající o mladém klukovi, který se snaží vypořádat se ztrátou jeho starého světa a s přijmutím toho nového
+- dále bychom zde zařadili například *Kafka na břehu* (2002, jinak *Kafka on the Shore*, v originále *Umibe no Kafuka*) nebo *1Q84* (2009 - 2010)
