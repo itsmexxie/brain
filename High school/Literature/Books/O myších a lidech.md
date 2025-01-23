@@ -1,10 +1,12 @@
 ---
-author: "[[John Steinbeck]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota            |
+| ----- | ------------------ |
+| Autor | [[John Steinbeck]] |
 # Historický kontext
 # Téma
 # Postavy

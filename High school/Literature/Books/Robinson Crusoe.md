@@ -1,10 +1,12 @@
 ---
-author: "[[Daniel Defoe]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota          |
+| ----- | ---------------- |
+| Autor | [[Daniel Defoe]] |
 # Historický kontext
 # Téma
 # Postavy

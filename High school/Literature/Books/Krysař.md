@@ -1,10 +1,12 @@
 ---
-author: "[[Viktor Dyk]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota        |
+| ----- | -------------- |
+| Autor | [[Viktor Dyk]] |
 # Historický kontext
 # Téma
 # Postavy

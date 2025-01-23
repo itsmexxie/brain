@@ -1,10 +1,16 @@
 ---
-author: "[[George Orwell]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek           | Hodnota                                           |
+| --------------- | ------------------------------------------------- |
+| Autor           | [[George Orwell]]                                 |
+| Období          |                                                   |
+| Literární forma | próza                                             |
+| Literární druh  | [[Literární druhy a žánry#Epika\|epika]]          |
+| Literární žánr  | [[Literární druhy a žánry#Střední epika\|novela]] |
 # Historický kontext
 # Téma
 # Postavy

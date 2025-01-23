@@ -4,6 +4,9 @@ tags:
   - graduation
 ---
 # Základní informace
+| Prvek  | Hodnota |
+| ------ | ------- |
+| Období |         |
 - fracouzský spisovatel, absurdistický a existencialistický filosof a novinář
     - **existencialismus** - přestože neexistuje žádná jiná vyšší entita, která by nám předurčovala, co máme a nemáme dělat, musíme dělat, co je správné, a najít si svůj vlastní smysl života
     - **absurdismus** - svět je iracionální a nedává smysl, a naše snaha v něm nějaký smysl najít nás vede akorát ke konfliktům s tímto světem

@@ -1,10 +1,12 @@
 ---
-author: "[[Oscar Wilde]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota         |
+| ----- | --------------- |
+| Autor | [[Oscar Wilde]] |
 # Historický kontext
 # Téma
 # Postavy

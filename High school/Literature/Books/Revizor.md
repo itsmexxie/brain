@@ -1,10 +1,12 @@
 ---
-author: "[[Nikolai Gogol]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota           |
+| ----- | ----------------- |
+| Autor | [[Nikolai Gogol]] |
 # Historický kontext
 # Téma
 # Postavy

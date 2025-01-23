@@ -1,17 +1,17 @@
 ---
-author: "[[Albert Camus]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
 
-| Key                 | Value              |
-| ------------------- | ------------------ |
-| **Literární druh**  | epika              |
-| **Literární forma** | próza              |
-| **Literární žánr**  | filosofická novela |
-| **Umělecký směr**   | existencialismus   |
+| Prvek           | Hodnota            |
+| --------------- | ------------------ |
+| Autor           | [[Albert Camus]]   |
+| Období          |                    |
+| Literární druh  | epika              |
+| Literární forma | próza              |
+| Literární žánr  | filosofická novela |
 # Historický kontext
 - publikována během druhé světové války - nebyla zakázána německou cenzurou
 - **existencialismus**
@@ -40,15 +40,15 @@ tags:
 - touží po přátelství s Mersaultem
 	- bratr jeho bývalé přítelkyně nejdřív napadne jeho a Mersaulta, později je to on, koho Mersault zabije
 ## Ostatní postavy
-- *Dva arabové*
+- **Dva arabové**
 	- duo dvou arabů, jeden z nich je bratrem bývalé Raymondovi přítelkyně, který zraní Raymonda nožem
 	- ten stejný je poté také zabit Mersaultem
 	- nikdo z nich není jmenován, což kreslí jistou nepřátelskost a vzdálenost mezi francouzským lidem a původními obyvateli
-- *Céleste*
+- **Céleste**
 	- majitel kavárny/bistra, kam Mersault často chodí na oběd
 	- má Mersaulta rád, zpovídá se při jeho soudu (poprvé, co chtěl Mersault políbit muže 😳)
-- *Advokát* - obhajuje Mersaulta při soudu
-- *Kněz* - poslední Mersaultova příležitost se za čin omluvit
+- **Advokát** - obhajuje Mersaulta při soudu
+- **Kněz** - poslední Mersaultova příležitost se za čin omluvit
 # Prostor a čas
 Děj se odehrává v Alžírsku v polovině 20. století. První část se odehrává během několika týdnů, avšak ke konci druhé části uplynulo něco přes rok od začátku děje
 # Kompozice a jazyk díla

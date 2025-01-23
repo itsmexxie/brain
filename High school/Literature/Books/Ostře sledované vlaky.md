@@ -1,10 +1,12 @@
 ---
-author: "[[Bohumil Hrabal]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota            |
+| ----- | ------------------ |
+| Autor | [[Bohumil Hrabal]] |
 # Historický kontext
 # Téma
 # Postavy

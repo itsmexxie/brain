@@ -1,10 +1,12 @@
 ---
-author: "[[Franz Kafka]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota         |
+| ----- | --------------- |
+| Autor | [[Franz Kafka]] |
 # Historický kontext
 # Téma
 # Postavy

@@ -1,0 +1,5 @@
+---
+tags:
+  - high-school
+  - graduation
+---

@@ -1,10 +1,12 @@
 ---
-author: "[[Karel Čapek]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota         |
+| ----- | --------------- |
+| Autor | [[Karel Čapek]] |
 # Historický kontext
 # Téma
 # Postavy

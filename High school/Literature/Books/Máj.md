@@ -1,10 +1,12 @@
 ---
-author: "[[Karel Hynek Mácha]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota               |
+| ----- | --------------------- |
+| Autor | [[Karel Hynek Mácha]] |
 # Historický kontext
 # Téma
 # Postavy

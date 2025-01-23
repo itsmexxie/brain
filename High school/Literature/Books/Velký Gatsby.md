@@ -1,10 +1,12 @@
 ---
-author: "[[Francis Scott Fitzgerald]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota                      |
+| ----- | ---------------------------- |
+| Autor | [[Francis Scott Fitzgerald]] |
 # Historický kontext
 # Téma
 # Postavy

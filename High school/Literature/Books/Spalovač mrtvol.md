@@ -1,10 +1,12 @@
 ---
-author: "[[Ladislav Fuks]]"
 tags:
   - high-school
   - graduation
 ---
 # Základní informace
+| Prvek | Hodnota           |
+| ----- | ----------------- |
+| Autor | [[Ladislav Fuks]] |
 # Historický kontext
 # Téma
 # Postavy
