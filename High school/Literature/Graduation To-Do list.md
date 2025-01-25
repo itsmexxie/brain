@@ -5,12 +5,12 @@ Complete list of works can be found [here](https://docs.google.com/spreadsheets/
 - [ ] [[Bohumil Hrabal]]
 - [ ] [[Daniel Defoe]]
 - [ ] [[Dan Brown]]
-- [ ] [[Ernest Hemingway]]
+- [x] [[Ernest Hemingway]] ✅ 2025-01-24
 - [ ] [[Francis Scott Fitzgerald]]
 - [ ] [[Franz Kafka]]
 - [ ] [[George Orwell]]
 - [x] [[Haruki Murakami]] ✅ 2025-01-19
-- [ ] [[Jerome David Salinger]]
+- [x] [[Jerome David Salinger]] ✅ 2025-01-24
 - [ ] [[John Steinbeck]]
 - [ ] [[Karel Čapek]]
 - [ ] [[Karel Hynek Mácha]]
@@ -26,7 +26,7 @@ Complete list of works can be found [here](https://docs.google.com/spreadsheets/
 - [ ] [[1984]]
 - [ ] [[451 stupňů Fahrenheita]]
 - [ ] [[Andělé a démoni]]
-- [ ] [[Cizinec]]
+- [x] [[Cizinec]] ✅ 2025-01-24
 - [ ] [[Farma zvířat]]
 - [ ] [[Hamlet]]
 - [ ] [[Kdo chytá v žitě]]

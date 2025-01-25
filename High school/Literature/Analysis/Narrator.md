@@ -1,6 +1,6 @@
 ---
-source:
-- https://is.muni.cz/el/phil/podzim2017/LMKA10/um/Vypravec-rekapitulace.pdf
+materials:
+  - https://is.muni.cz/el/phil/podzim2017/LMKA10/um/Vypravec-rekapitulace.pdf
 ---
 Vypravěč je ten, kdo příběh vypráví. U lyriky mluvíme o tzv. "lyrickém subjektu".
 # Osoby
