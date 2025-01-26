@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Spalovač mrtvol
 # Základní informace
-| Prvek | Hodnota            |
-| ----- | ------------------ |
-| Autor | [[Bohumil Hrabal]] |
+| Prvek | Hodnota           |
+| ----- | ----------------- |
+| Autor | [[Ladislav Fuks]] |
 # Historický kontext
 # Téma
 # Postavy

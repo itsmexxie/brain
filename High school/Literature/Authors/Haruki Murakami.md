@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Haruki Murakami
 # Základní informace
 - japonský spisovatel a překladatel
 - narozen roku 1949 v Kjótu, většinu mládí strávil v Kóbe, později se přestěhoval do Tokya kvůli univerzitě (Waseda university)

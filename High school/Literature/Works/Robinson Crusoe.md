@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Robinson Crusoe
 # Základní informace
-| Prvek | Hodnota            |
-| ----- | ------------------ |
-| Autor | [[John Steinbeck]] |
+| Prvek | Hodnota          |
+| ----- | ---------------- |
+| Autor | [[Daniel Defoe]] |
 # Historický kontext
 # Téma
 # Postavy

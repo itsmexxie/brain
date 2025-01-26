@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Kytice
 # Základní informace
-| Prvek | Hodnota         |
-| ----- | --------------- |
-| Autor | [[Oscar Wilde]] |
+| Prvek | Hodnota                 |
+| ----- | ----------------------- |
+| Autor | [[Karel Jaromír Erben]] |
 # Historický kontext
 # Téma
 # Postavy

@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Romeo a Julie
 # Základní informace
 | Prvek           | Hodnota                                                |
 | --------------- | ------------------------------------------------------ |

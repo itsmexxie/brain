@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Cizinec
 # Základní informace
 
 | Prvek           | Hodnota            |

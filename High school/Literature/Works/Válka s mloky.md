@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Válka s mloky
 # Základní informace
-| Prvek | Hodnota                 |
-| ----- | ----------------------- |
-| Autor | [[Karel Jaromír Erben]] |
+| Prvek | Hodnota         |
+| ----- | --------------- |
+| Autor | [[Karel Čapek]] |
 # Historický kontext
 # Téma
 # Postavy

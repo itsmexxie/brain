@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Krysař
 # Základní informace
-| Prvek | Hodnota               |
-| ----- | --------------------- |
-| Autor | [[Karel Hynek Mácha]] |
+| Prvek | Hodnota        |
+| ----- | -------------- |
+| Autor | [[Viktor Dyk]] |
 # Historický kontext
 # Téma
 # Postavy

@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Kdo chytá v žitě
 # Základní informace
 | Pole            | Hodnota                                  |
 | --------------- | ---------------------------------------- |

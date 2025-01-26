@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Albert Camus
 # Základní informace
 | Prvek  | Hodnota |
 | ------ | ------- |

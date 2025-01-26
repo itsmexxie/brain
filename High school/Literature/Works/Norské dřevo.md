@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Norské dřevo
 # Základní informace
 | Prvek | Hodnota             |
 | ----- | ------------------- |

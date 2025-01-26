@@ -3,11 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Deset malých černoušků
 # Základní informace
 | Prvek           | Hodnota                                           |
 | --------------- | ------------------------------------------------- |
-| Autor           | [[George Orwell]]                                 |
-| Období          |                                                   |
+| Autor           | [[Agatha Christie]]                               |
 | Literární forma | próza                                             |
 | Literární druh  | [[Literární druhy a žánry#Epika\|epika]]          |
 | Literární žánr  | [[Literární druhy a žánry#Střední epika\|novela]] |

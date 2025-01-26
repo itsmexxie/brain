@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Ostře sledované vlaky
 # Základní informace
-| Prvek | Hodnota          |
-| ----- | ---------------- |
-| Autor | [[Daniel Defoe]] |
+| Prvek | Hodnota            |
+| ----- | ------------------ |
+| Autor | [[Bohumil Hrabal]] |
 # Historický kontext
 # Téma
 # Postavy

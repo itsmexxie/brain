@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Stařec a moře
 # Základní informace
 | Prvek           | Hodnota                                           |
 | --------------- | ------------------------------------------------- |

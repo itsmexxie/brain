@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] 451 stupňů Fahrenheita
 # Základní informace
 | Prvek           | Hodnota                                                   |
 | --------------- | --------------------------------------------------------- |

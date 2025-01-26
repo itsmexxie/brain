@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Obraz Doriana Graye
 # Základní informace
 | Prvek | Hodnota         |
 | ----- | --------------- |
-| Autor | [[Karel Čapek]] |
+| Autor | [[Oscar Wilde]] |
 # Historický kontext
 # Téma
 # Postavy

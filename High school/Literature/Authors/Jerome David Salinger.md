@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Jerome David Salinger
 # Základní informace
 | Prvek  | Hodnota                                  |
 | ------ | ---------------------------------------- |

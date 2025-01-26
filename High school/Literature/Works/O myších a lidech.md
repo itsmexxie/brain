@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] O myších a lidech
 # Základní informace
-| Prvek | Hodnota                      |
-| ----- | ---------------------------- |
-| Autor | [[Francis Scott Fitzgerald]] |
+| Prvek | Hodnota            |
+| ----- | ------------------ |
+| Autor | [[John Steinbeck]] |
 # Historický kontext
 # Téma
 # Postavy

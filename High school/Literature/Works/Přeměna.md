@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Přeměna
 # Základní informace
-| Prvek | Hodnota            |
-| ----- | ------------------ |
-| Autor | [[Bohumil Hrabal]] |
+| Prvek | Hodnota         |
+| ----- | --------------- |
+| Autor | [[Franz Kafka]] |
 # Historický kontext
 # Téma
 # Postavy

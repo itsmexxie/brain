@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Matka
 # Základní informace
 | Prvek | Hodnota         |
 | ----- | --------------- |
-| Autor | [[Franz Kafka]] |
+| Autor | [[Karel Čapek]] |
 # Historický kontext
 # Téma
 # Postavy

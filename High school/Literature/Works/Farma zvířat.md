@@ -3,10 +3,12 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Farma zvířat
 # Základní informace
 | Prvek           | Hodnota                                           |
 | --------------- | ------------------------------------------------- |
-| Autor           | [[Agatha Christie]]                               |
+| Autor           | [[George Orwell]]                                 |
+| Období          |                                                   |
 | Literární forma | próza                                             |
 | Literární druh  | [[Literární druhy a žánry#Epika\|epika]]          |
 | Literární žánr  | [[Literární druhy a žánry#Střední epika\|novela]] |

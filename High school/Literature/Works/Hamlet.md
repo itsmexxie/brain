@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Hamlet
 # Základní informace
 | Prvek          | Hodnota                                                |
 | -------------- | ------------------------------------------------------ |

@@ -1,49 +1,9 @@
 Complete list of works can be found [here](https://docs.google.com/spreadsheets/d/1cynlCZ1grN408Z_BCTJmHx9R5myMif9waXZtIkNw4Po/edit?gid=0#gid=0).
 ## Authors
-- [ ] [[Agatha Christie]]
-- [x] [[Albert Camus]] ✅ 2025-01-19
-- [ ] [[Bohumil Hrabal]]
-- [ ] [[Daniel Defoe]]
-- [ ] [[Dan Brown]]
-- [x] [[Ernest Hemingway]] ✅ 2025-01-24
-- [ ] [[Francis Scott Fitzgerald]]
-- [ ] [[Franz Kafka]]
-- [ ] [[George Orwell]]
-- [x] [[Haruki Murakami]] ✅ 2025-01-19
-- [x] [[Jerome David Salinger]] ✅ 2025-01-24
-- [ ] [[John Steinbeck]]
-- [ ] [[Karel Čapek]]
-- [ ] [[Karel Hynek Mácha]]
-- [ ] [[Karel Jaromír Erben]]
-- [ ] [[Ladislav Fuks]]
-- [ ] [[Nikolai Gogol]]
-- [ ] [[Oscar Wilde]]
-- [ ] [[Ray Bradbury]]
-- [ ] [[Viktor Dyk]]
-- [ ] [[William Shakespeare]]
+```tasks
+path includes Literature/Authors
+```
 ## Works
-- [ ] [[10 malých černoušků]]
-- [ ] [[1984]]
-- [ ] [[451 stupňů Fahrenheita]]
-- [ ] [[Andělé a démoni]]
-- [x] [[Cizinec]] ✅ 2025-01-24
-- [ ] [[Farma zvířat]]
-- [ ] [[Hamlet]]
-- [ ] [[Kdo chytá v žitě]]
-- [ ] [[Krysař]]
-- [ ] [[Kytice]]
-- [ ] [[Máj]]
-- [ ] [[Matka]]
-- [ ] [[Norské dřevo]]
-- [ ] [[O myších a lidech]]
-- [ ] [[Obraz Doriana Graye]]
-- [ ] [[Obsluhoval jsem anglického krále]]
-- [ ] [[Ostře sledované vlaky]]
-- [ ] [[Přeměna]]
-- [ ] [[Revizor]]
-- [ ] [[Robinson Crusoe]]
-- [ ] [[Romeo a Julie]]
-- [ ] [[Spalovač mrtvol]]
-- [ ] [[Stařec a moře]]
-- [ ] [[Válka s mloky]]
-- [ ] [[Velký Gatsby]]
+```tasks
+path includes Literature/Works
+```

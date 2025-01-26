@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Velký Gatsby
 # Základní informace
-| Prvek | Hodnota        |
-| ----- | -------------- |
-| Autor | [[Viktor Dyk]] |
+| Prvek | Hodnota                      |
+| ----- | ---------------------------- |
+| Autor | [[Francis Scott Fitzgerald]] |
 # Historický kontext
 # Téma
 # Postavy

@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Revizor
 # Základní informace
 | Prvek | Hodnota           |
 | ----- | ----------------- |

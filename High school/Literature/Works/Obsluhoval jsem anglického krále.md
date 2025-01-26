@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Obsluhoval jsem anglického krále
 # Základní informace
-| Prvek | Hodnota         |
-| ----- | --------------- |
-| Autor | [[Karel Čapek]] |
+| Prvek | Hodnota            |
+| ----- | ------------------ |
+| Autor | [[Bohumil Hrabal]] |
 # Historický kontext
 # Téma
 # Postavy

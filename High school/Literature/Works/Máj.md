@@ -3,10 +3,11 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Máj
 # Základní informace
-| Prvek | Hodnota           |
-| ----- | ----------------- |
-| Autor | [[Ladislav Fuks]] |
+| Prvek | Hodnota               |
+| ----- | --------------------- |
+| Autor | [[Karel Hynek Mácha]] |
 # Historický kontext
 # Téma
 # Postavy

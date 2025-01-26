@@ -3,6 +3,7 @@ tags:
   - high-school
   - graduation
 ---
+- [ ] Ernest Hemingway
 # Základní informace
 | Prvek  | Hodnota |
 | ------ | ------- |
