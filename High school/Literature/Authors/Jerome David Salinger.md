@@ -3,7 +3,7 @@ tags:
   - high-school
   - graduation
 ---
-- [ ] Jerome David Salinger
+- [x] Jerome David Salinger ✅ 2025-01-27
 # Základní informace
 | Prvek  | Hodnota                                  |
 | ------ | ---------------------------------------- |

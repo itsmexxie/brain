@@ -3,7 +3,7 @@ tags:
   - high-school
   - graduation
 ---
-- [ ] Ernest Hemingway
+- [x] Ernest Hemingway ✅ 2025-01-27
 # Základní informace
 | Prvek  | Hodnota |
 | ------ | ------- |
