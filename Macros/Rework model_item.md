@@ -1,0 +1,2 @@
+- [ ] Implement Bootstrap classes
+- [ ] Refactor to separate functions

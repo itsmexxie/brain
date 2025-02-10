@@ -8,7 +8,7 @@ tags:
 | Prvek           | Hodnota                                           |
 | --------------- | ------------------------------------------------- |
 | Autor           | [[Ernest Hemingway]]                              |
-| Období          | [[Téma WWI]]                                      |
+| Období          | [[3. Téma WWI]]                                      |
 | Literární forma | próza                                             |
 | Literární druh  | [[Literární druhy a žánry#Epika\|epika]]          |
 | Literární žánr  | [[Literární druhy a žánry#Střední epika\|novela]] |

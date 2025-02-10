@@ -8,7 +8,7 @@ tags:
 | Pole            | Hodnota                                  |
 | --------------- | ---------------------------------------- |
 | Autor           | [[Jerome David Salinger]]                |
-| Období          | [[Poválečná literatura#Beat generation]] |
+| Období          | [[7. Poválečná literatura#Beat generation]] |
 | Literární druh  | epika                                    |
 | Literární forma | próza                                    |
 | Literární žánr  | román o dospívání (*"coming of age"*)    |

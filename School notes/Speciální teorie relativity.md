@@ -1,4 +1,0 @@
-- princip relativity - "*Ve všech inerciálních vztažných soustavách platí stejné fyzikální zákony.*"
-- princip stále rychlosti světla
-	- ve všech inerciálních vztažných soustavách má rychlost světla stejnou velikost
-	- nezávisí na směru, ani vzájemném pohybu zdroje a pozorovatele

@@ -7,11 +7,11 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                                  |
 | ------ | ---------------------------------------- |
-| Období | [[Poválečná literatura#Beat generation]] |
+| Období | [[7. Poválečná literatura#Beat generation]] |
 - J. D. Salinger byl americký autor židovského původu.
 - Narozen 1. ledna 1919 v Manhattanu, New York, USA.
 - Otec Sol Salinger byl obchodník židovského původu a pracoval jako rav, matka byla německého, irského a skotského původu, avšak po svatbě se považovala za Židku.
-- Patřil do období tzv. [[Poválečná literatura#Beat generation]]
+- Patřil do období tzv. [[7. Poválečná literatura#Beat generation]]
 - J. D. Salinger zemřel ve svém domě 27. ledna 2010.
 # Život
 - V mládí vystřídal několik škol. Disponoval dobrými hereckými dovednostmi, avšak jeho rodina oponovala myšlence, že by se měl stát hercem. Nastoupil proto do vojenské školy, kde začal psát krátké příběhy. Po absolvování vystřídal několik vysokých škol, chodil také rok na Kolumbijskou univerzitu, kde se seznámil s Whitt Burnettem, dlouhodobým editorem magazínu *Story*, se kterým pak dlouho udržoval korespondenční vztah.

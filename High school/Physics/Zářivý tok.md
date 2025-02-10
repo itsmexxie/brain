@@ -1,3 +1,7 @@
+---
+tags:
+  - high-school
+---
 - značíme $\phi$ 
 - jednotka $[\phi] = W$
 - jinak: světelný tok $[\phi] = lm$
