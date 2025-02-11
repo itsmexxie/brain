@@ -1,6 +1,4 @@
 ---
-source:
-  - https://cs.wikipedia.org/wiki/Karel_%C4%8Capek
 tags:
   - high-school
   - graduation
@@ -9,7 +7,7 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                                                         |
 | ------ | --------------------------------------------------------------- |
-| Období | [[5. Meziválečné období v české literatuře#Demokratický proud]] |
+| Období | [[11. Meziválečné období v české literatuře#Demokratický proud]] |
 - Český spisovatel, novinář a dramatik (+ mnoho dalších profesí, které nejsou v kontextu maturitní zkoušky důležité).
 - Narozen 9. ledna 1890 v Malých Svatoňovicích.
 - Působil jako redaktor *Národní listů* a *Lidových novin*.
@@ -81,3 +79,5 @@ V neposlední řadě si můžeme povšimnout, že typickým znakem jeho tvorby j
 	- napsáno společně s Josefem Čapkem
 	- vyprávění o narození a růstu štěňátka
 	- Karel Čapek jí vypráví psí pohádky, které jsou ve své podstatě bajky
+# Zdroje
+- Přispěvatelé projektů Wikimedia. (2025, February 6). _Karel Čapek_. Retrieved February 11, 2025, from https://cs.wikipedia.org/wiki/Karel_%C4%8Capek

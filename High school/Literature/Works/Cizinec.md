@@ -5,7 +5,6 @@ tags:
 ---
 - [ ] Cizinec
 # Základní informace
-
 | Prvek           | Hodnota            |
 | --------------- | ------------------ |
 | Autor           | [[Albert Camus]]   |
