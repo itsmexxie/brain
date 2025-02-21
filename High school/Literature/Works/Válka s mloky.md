@@ -8,7 +8,7 @@ tags:
 | Prvek           | Hodnota                                                          |
 | --------------- | ---------------------------------------------------------------- |
 | Autor           | [[Karel Čapek]]                                                  |
-| Období          | [[11. Meziválečné období v české literatuře#Demokratický proud]] |
+| Období          | [[15. Meziválečné období v české literatuře#Demokratický proud]] |
 | Literární druh  | epika                                                            |
 | Literární forma | próza                                                            |
 | Literární žánr  | alegorický sci-fi román                                          |
@@ -64,4 +64,4 @@ Kniha obsahuje nespočet symbolismů, které poukazují jak na soudobé problém
 - Po WWII vzniklo několik divadelních adaptací, vznikla dokonce i jedna rozhlasová.
 # Zdroje
 - Přispěvatelé projektů Wikimedia. (2025, February 5). _Válka s Mloky_. Retrieved February 11, 2025, from https://cs.wikipedia.org/wiki/V%C3%A1lka_s_Mloky
-- https://docs.google.com/document/d/1aIcpLvIbhP8RDlNGYRWdp2Yw2_6xYg-J/edit?usp=drive_link&ouid=110370475842668907246&rtpof=true&sd=true
+- Michálková Denisa. (2024, September 3). *19. Demokratický proud*. Retrieved February 11, 2025, from https://docs.google.com/document/d/1Z_K1ZnP-JMjTgu-GbIxNGD5RZZkK1qMZ/edit?usp=drive_link&ouid=110370475842668907246&rtpof=true&sd=true

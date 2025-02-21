@@ -5,9 +5,9 @@ tags:
 ---
 - [x] Ernest Hemingway ✅ 2025-01-27
 # Základní informace
-| Prvek  | Hodnota |
-| ------ | ------- |
-| Období |         |
+| Prvek  | Hodnota                            |
+| ------ | ---------------------------------- |
+| Období | [[13. Téma WWI#Ztracená generace]] |
 - Americký novinář a spisovatel, narozen 21. Července 1899 v Illinois, U.S.
 - Spáchal sebevraždu v jeho domě 2. července 1961.
 # Život
@@ -20,3 +20,5 @@ tags:
 - Hemingway zabředává svými díly do několika témat, jako jsou například válka, láska, smrt, samota, ale také důležitost statečnosti a vytrvalosti nad poddáním.
 - Mezi jeho nejznámější díla patří *Stařec a moře* (1952, v originále *The Old Man and the Sea*), která vypráví o unaveném a starém rybáři, a *Komu zvoní hrana* (1940, v originále *For Whom the Bell Tolls*), která pojednává o mladém američanovi, který se nechá naverbovat do španělské občanské války.
 - Jeho dalšími díly jsou například *Sbohem, armádo* (1929, v originále *A Farewell to Arms*), které podložil svými zkušenostmi z WWI.
+# Zdroje
+- Přispěvatelé projektů Wikimedia. (2025, February 21). *Ernest Hemingway*. Retrieved February 21, 2025, from https://en.wikipedia.org/wiki/Ernest_Hemingway

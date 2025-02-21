@@ -7,6 +7,6 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                                  |
 | ------ | ---------------------------------------- |
-| Období | [[13. Poválečná literatura#Beat generation]] |
+| Období | [[17. Poválečná literatura#Beat generation]] |
 # Život
 # Dílo

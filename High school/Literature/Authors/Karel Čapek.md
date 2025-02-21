@@ -7,7 +7,7 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                                                         |
 | ------ | --------------------------------------------------------------- |
-| Období | [[11. Meziválečné období v české literatuře#Demokratický proud]] |
+| Období | [[15. Meziválečné období v české literatuře#Demokratický proud]] |
 - Český spisovatel, novinář a dramatik (+ mnoho dalších profesí, které nejsou v kontextu maturitní zkoušky důležité).
 - Narozen 9. ledna 1890 v Malých Svatoňovicích.
 - Působil jako redaktor *Národní listů* a *Lidových novin*.
@@ -29,9 +29,13 @@ tags:
 # Dílo
 V díle Karla Čapka se můžeme setkat s několika tématy. Nejčastěji bývá děleno na dvě.
 
-Prvním z nich je vědeckotechnická revoluce, která probíhala na počátku 20. století, a strach, že stroje jednou nahradí člověka a získají nad ním kontrolu (*R.U.R*, *Továrna na absolutno*, do jisté míry i *Válka s mloky*). Nepochybně ho také ovlivnila politická situace v Evropě - WWI, nástup fašismu v Německu a Itálii, obavy z WWII a strach o první republiku Československa (*Matka*, *Válka s mloky*, *Bílá nemoc*"). Obavy z toho, jak nám mohou nově získané technologie uškodit v nadcházejících konfliktech.
+- Prvním z nich je vědeckotechnická revoluce, která probíhala na počátku 20. století, a strach, že stroje jednou nahradí člověka a získají nad ním kontrolu (*R.U.R*, *Továrna na absolutno*, do jisté míry i *Válka s mloky*).
+- Nepochybně ho také ovlivnila politická situace v Evropě - WWI, nástup fašismu v Německu a Itálii, obavy z WWII a strach o první republiku Československa (*Matka*, *Válka s mloky*, *Bílá nemoc*).
+- Obavy z toho, jak nám mohou nově získané technologie uškodit v nadcházejících konfliktech.
 
-Také se často zaměřuje na vnitřní život svých postav, zobrazuje je jako silné jedince (viz.: *Matka* - i když se jedná o "prachsprostou" matku). Nikdy nepopírá jejich pohled na danou situaci, dokonce ho i uznává a naopak neuznává jednoznačnou pravdu -> každý ji máme ze svého úhlu pohledu (viz.: *Matka* - spor mezi matkou a jejími syny o plném využití/promaření lidského života). Často se snaží prozkoumat hranice lidského poznání.
+- Také se často zaměřuje na vnitřní život svých postav, zobrazuje je jako silné jedince (viz.: *Matka* - i když se jedná o "prachsprostou" matku).
+- Nikdy nepopírá jejich pohled na danou situaci, dokonce ho i uznává a naopak neuznává jednoznačnou pravdu -> každý ji máme ze svého úhlu pohledu (viz.: *Matka* - spor mezi matkou a jejími syny o plném využití/promaření lidského života).
+- Často se snaží prozkoumat hranice lidského poznání.
 
 V neposlední řadě si můžeme povšimnout, že typickým znakem jeho tvorby je také jeho velká slovní zásoba a používání neobvyklých či vymyšlených slov (viz.: *R.U.R.* - robot).
 ## Próza
@@ -80,4 +84,4 @@ V neposlední řadě si můžeme povšimnout, že typickým znakem jeho tvorby j
 	- vyprávění o narození a růstu štěňátka
 	- Karel Čapek jí vypráví psí pohádky, které jsou ve své podstatě bajky
 # Zdroje
-- Přispěvatelé projektů Wikimedia. (2025, February 6). _Karel Čapek_. Retrieved February 11, 2025, from https://cs.wikipedia.org/wiki/Karel_%C4%8Capek
+- Přispěvatelé projektů Wikimedia. (2025, February 6). *Karel Čapek*. Retrieved February 11, 2025, from https://cs.wikipedia.org/wiki/Karel_%C4%8Capek

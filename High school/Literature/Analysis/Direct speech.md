@@ -1,0 +1,22 @@
+# Typy přímé řeči
+- **přímá řeč vlastní**
+	- mluvčí k nám promlouvá přímo
+	- oddělena od zbytku textu uvozovkami
+	- samostatná věta -> musí být správně započata a ukončena
+	- text mluvčího v první osobě
+	- *Paní učitelka nám řekla: "Vezměte si zítra každý padesát korun."*
+- **přímá řeč nevlastní**
+	- nelze jasně odlišit řeč mluvčího a vypravěče
+	- vypravěč nepředává řeč mluvčímu
+	- text mluvčího zůstává v první osobě
+	- *Paní učitelka se obrátila na třídu, prosím, vezměte si zítra každý padesát korun.*
+	- *Jirka vyšel se psem ze dveří, pojď, půjdeme na procházku.*
+- **polopřímá řeč**
+	- nelze jasně odlišit řeč mluvčího a vypravěče
+	- vypravěč popisuje řeč mluvčího
+	- text mluvčího přechází do třetí osoby
+	- *Ne, nemusí se bát, nejde služebně, slyšel jen, že má Jitka nějaké dokumenty, které by si rád prolistoval.*
+- **nepřímá řeč**
+	- reprodukce řeči mluvčího jinou osobou (nemusí být vypravěč)
+	- dochází ke gramatickým změnám (čas, osoba)
+	- *Paní učitelka nám řekla, abychom si zítra vzali každý padesát korun.*

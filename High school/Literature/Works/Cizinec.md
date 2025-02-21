@@ -5,13 +5,13 @@ tags:
 ---
 - [ ] Cizinec
 # Základní informace
-| Prvek           | Hodnota            |
-| --------------- | ------------------ |
-| Autor           | [[Albert Camus]]   |
-| Období          |                    |
-| Literární druh  | epika              |
-| Literární forma | próza              |
-| Literární žánr  | filosofická novela |
+| Prvek           | Hodnota             |
+| --------------- | ------------------- |
+| Autor           | [[Albert Camus]]    |
+| Období          | [[14. Modernismus]] |
+| Literární druh  | epika               |
+| Literární forma | próza               |
+| Literární žánr  | filosofická novela  |
 # Historický kontext
 - publikována během druhé světové války - nebyla zakázána německou cenzurou
 - **existencialismus**
@@ -25,7 +25,7 @@ tags:
 # Postavy
 ## Mersault
 - hlavní postava, úředník
-- je odpojen od reality, "*cizincem*" ve společnosti, oplývá existencialistickými názory a myšlenkami
+- je odpojen od reality, "cizincem" ve společnosti, oplývá existencialistickými názory a myšlenkami
 - žije život přes clonu
 - události, které se mu dějí, prožívá jakoby nezaujatě - na venek nedává znát svoje emoce, o ničem nezaujímá konkrétní stanovisko
 	- jeho zaměstnavatel mu nabídne práci ve francouzské pobočce, on odpoví, že ji vezme a přestěhuje se, pokud je to to, co si jeho zaměstnavatel přeje

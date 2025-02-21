@@ -9,19 +9,27 @@ Rozlišujeme dvě osoby, ve kterých se může vypravěč/vyprávění nacházet
 - **er-forma** (on) - vyprávění ve třetí osobě (např.: *Harry Potter* - "Příštího dne ráno se Harry probudil časně.")
 # Typy vypravěče
 - **vševědoucí vypravěč**
-	- ví o postavách všechno, včetně jejich myšlenek
-	- může být na více místech najednou
+	- nahlíží na děj i postavy jak zvenčí, tak zevnitř
+	- zná motivace všech postav, jejich skryté myšlenky
+	- může se nacházet v jednu chvíli na více místech najednou
 	- do děje nezasahuje
 	- typické vyprávění v minulém čase
+	- např.: *Krysař*
 - **autorský vypravěč**
 	- stejně jako vševědoucí vypravěč ví o postavách všechno možné,
 	- zároveň ke svému vyprávění přidává i svoje komentáře a názory
 	- jedná se o tvůrce vyprávění, nikoliv o samotného knižního autora
-- **personální (osobní) vypravěč**
-	- sleduje jednu konkrétní osobu, zná její myšlenky, ostatním do hlavy nevidí
-	- v dnešní terminologii bychom ho mohli popsat jako perspektivu z třetí osoby
+	- např.: *Markéta Lazarová*
+- **personální vypravěč**
+	- sleduje omezený počet osob, ve většině případů pouze jednu
+	- postavám v tomto kruhu může nahlížet zevnitř i zvenčí, zná jejich myšlenky a motivace
+	- ostatním může nahlížet pouze zvenčí
+	- často pracuje s monologem a [[Direct speech|polopřímou řečí]]
+	- např.: *Harry Potter*
 - **přímý vypravěč**
-	- jedná se o jednu konkrétní postavu, ostatním do hlavy nevidí (pokud to její schopnosti nedovolují :D)
+	- jedná se o jednu konkrétní postavu
+	- sama sebe může nahlížet zevnitř, zvenčí nemůže
+	- ostatní postavy může nahlížet právě pouze zvenčí
 	- typicky vyprávění v ich-formě
 	- např.: *Norské dřevo*
 - **oko kamery**

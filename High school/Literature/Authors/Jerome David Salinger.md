@@ -7,11 +7,11 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                                  |
 | ------ | ---------------------------------------- |
-| Období | [[13. Poválečná literatura#Beat generation]] |
+| Období | [[17. Poválečná literatura#Beat generation]] |
 - J. D. Salinger byl americký autor židovského původu.
 - Narozen 1. ledna 1919 v Manhattanu, New York, USA.
 - Otec Sol Salinger byl obchodník židovského původu a pracoval jako rav, matka byla německého, irského a skotského původu, avšak po svatbě se považovala za Židku.
-- Patřil do období tzv. [[13. Poválečná literatura#Beat generation]]
+- Patřil do období tzv. [[17. Poválečná literatura#Beat generation]]
 - J. D. Salinger zemřel ve svém domě 27. ledna 2010.
 # Život
 - V mládí vystřídal několik škol. Disponoval dobrými hereckými dovednostmi, avšak jeho rodina oponovala myšlence, že by se měl stát hercem. Nastoupil proto do vojenské školy, kde začal psát krátké příběhy. Po absolvování vystřídal několik vysokých škol, chodil také rok na Kolumbijskou univerzitu, kde se seznámil s Whitt Burnettem, dlouhodobým editorem magazínu *Story*, se kterým pak dlouho udržoval korespondenční vztah.
@@ -22,3 +22,5 @@ tags:
 # Dílo
 - Salinger za svůj život moc nepublikoval, a - jak už bylo řečeno - spíše se stranil a udržoval si svůj soukromý život. Jeho jedinou novelou byla právě *Kdo chytá v žitě* (1951, v originále *Catcher in the Rye*), příběh o dospívajícím puberťákovi, který prochází sám New Yorkem a pomalu ztrácí naději v lidstvo.
 - Později publikoval dvě sady krátkých příběhů, *Devět příběhů* (1953, v originále *Nine Stories*) a *Franny a Zooey* (1961, v originále *Franny and Zooey*). Několik krátkých příběhů napsal ještě před tím, než se stal slavným, vydaných i nevydaných. Některé z nich sloužili jako inspirace právě pro *Kdo chytá v žitě*.
+# Zdroje
+- Přispěvatelé projektů Wikimedia. (2025, February 16). *J. D. Salinger*. Retrieved February 21, 2025, from https://en.wikipedia.org/wiki/J._D._Salinger

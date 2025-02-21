@@ -8,7 +8,7 @@ tags:
 | Prvek           | Hodnota                                                   |
 | --------------- | --------------------------------------------------------- |
 | Autor           | [[Ray Bradbury]]                                          |
-| Období          | [[13. Poválečná literatura#Beat generation\|Beat generation]] |
+| Období          | [[17. Poválečná literatura#Beat generation\|Beat generation]] |
 | Literární forma | próza                                                     |
 | Literární druh  | [[Literární druhy a žánry#Epika\|epika]]                  |
 | Literární žánr  | [[Literární druhy a žánry#Střední epika\|novela]]         |

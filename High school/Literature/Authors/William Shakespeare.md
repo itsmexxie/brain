@@ -35,7 +35,7 @@ Pro soudobé autory bylo typické spolupracovat na svých hrách s ostatními, c
 ### Sonety
 - v originále *Sonnets*
 - sbírka 154 Shakespearových sonetů vydaná v roce 1609
-- data vydaní jednotlivých sonetů nejsou známé, Shakespeare je nejspíš psal v průběhu celého svého života pro osobní účely a soukromá čtení
+- data vydaní jednotlivých sonetů nejsou známé+, Shakespeare je nejspíš psal v průběhu celého svého života pro osobní účely a soukromá čtení
 # Zdroje
-- https://en.wikipedia.org/wiki/William_Shakespeare
-- OSP. (2020, April 24). _History-Makers: Shakespeare_. YouTube. https://www.youtube.com/watch?v=GoPIcBwR1vA
+- Přispěvatelé projektů Wikimedia. (2025, February 5). *William Shakespeare*. Retrieved February 11, 2025, from https://en.wikipedia.org/wiki/William_Shakespeare
+- OSP. (2020, April 24). _History-Makers: Shakespeare_. YouTube. Retrieved February 11, 2025, from https://www.youtube.com/watch?v=GoPIcBwR1vA
