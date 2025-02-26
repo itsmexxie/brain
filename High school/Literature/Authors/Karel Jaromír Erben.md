@@ -7,6 +7,6 @@ tags:
 # Základní informace
 | Prvek  | Hodnota                       |
 | ------ | ----------------------------- |
-| Období | [[7. České národní obrození]] |
+| Období | [[8. České národní obrození]] |
 # Život
 # Dílo

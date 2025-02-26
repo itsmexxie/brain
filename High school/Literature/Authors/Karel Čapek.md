@@ -13,14 +13,14 @@ tags:
 - Působil jako redaktor *Národní listů* a *Lidových novin*.
 - Z *Národních listů* odešel na protest proti politickému směru, kterým se list začal ubírat a který Čapek vnímal jako proti TGM.
 - Byl podporovatelem TGM
-- Vytvořil si kolem sebe kruh politicky stejně zainteresovaných lidí z kulturního i politického života, se kterými se pravidelně každý pátek scházel a debatoval ("*pátečníci*").
+- Vytvořil si kolem sebe kruh politicky stejně zainteresovaných lidí z kulturního i politického života, se kterými se pravidelně každý pátek scházel a debatoval ("**pátečníci**").
 - Umírá roku 1938 na plicní edém, několik měsíců před okupací Čech a Moravy nacistickým Německem.
 - Úžasný [minifilm](https://www.youtube.com/watch?v=RjCPI6SXGCE&pp=ygUVa2FyZWwgxI1hcGVrIG11emlrw6Fs), ze kterého se dá určitě lecos naučit wink wunk wink.
 # Život
 - V mládí studoval na gymnáziu v Hradci Králové, odkud byl vyhozen z důvodu protirakouského smýšlení (založil tajný protirakouský spolek). Své studium dokončil na gymnáziu v Brně. Roku 1915 dokončil studium na FF UK a získal doktorát z filosofie.
 - Kvůli svému zdravotnímu stavu (Bechtěrevova nemoc - chronické zánětlivé onemocnění postihující zejména páteřní obratle) nebyl odveden bojovat v WWI.
 - Stal se redaktorem v několika denících a časopisech: *Národní listy* (1917 - 1921), *Nebojsa* (1918 - 1920) a *Lidové noviny* (od roku 1921). Z *Národních listů* odešel kvůli neshodě Čapkových politických názorů a politickým směrem, kterým se list začal ubírat. Mezi lety 1921 - 1923 působil jako dramaturg a režisér *Vinohradského divadla*. 
-- Čapek byl politicky velice aktivní. Jeho *Hovory s T. G. Masarykem* nabízejí jedinečný pohled do všech aspektů Masaryka, jak politických, tak osobních. S několika osobnostmi politického i kulturního života se pravidelně každý pátek scházel. Této "instituci" (jak ji nazývá Wikipedie) se obecně vžil název "*pátečníci*". Mezi "*pátečníky*" patřil například T. G. Masaryk, Edvard Beneš nebo Ferdinand Peroutka.
+- Čapek byl politicky velice aktivní. Jeho *Hovory s T. G. Masarykem* nabízejí jedinečný pohled do všech aspektů Masaryka, jak politických, tak osobních. S několika osobnostmi politického i kulturního života se pravidelně každý pátek scházel. Této "instituci" (jak ji nazývá Wikipedie) se obecně vžil název "**pátečníci**". Mezi pátečníky patřil například T. G. Masaryk, Edvard Beneš nebo Ferdinand Peroutka.
 - Mnichovská dohoda a následná kapitulace znamenaly pro Čapka zhroucení jeho dosavadního světa. Nesnažil se hledat viníky, ba naopak se snažil o sjednocení národa. Po abdikaci prezidenta Edvarda Beneše se však pro mnohé stal jistým symbolem první republiky, z čehož také vyplývá, že často plnil i roli "obětního beránka" pro veškeré problémy, které se během tohoto počátečního období WWII děly.
 
 > 	*Zdá se mi, že už tu nemám co dělat, byl bych tu směšnou figurkou, můj svět umřel, věřil jsem totiž v jakési závazky, v takzvanou čest ve smlouvě a podobné věci. Myslím, že bych se v téhle tlačenici nevyznal...*

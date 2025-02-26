@@ -22,7 +22,7 @@ $$
 > [!example]- Jaká energie v elektronvoltech (eV) se uvolní při anihilaci elektronu a pozitronu? Klidová hmotnost elektronu je $9.1*10^{-31}$.
 > Postup:
 > - celková energie uvolněna prostřednictvím photonů je $E=m*c^2*2$, jelikož se jedná o dvě částice
-> - přenesením 1C přes napětí 1V vykonáme práci 1J, stejně tak přenesením $1.602*10^{-19}C$ přes napětí 1V "vykonáme" 1eV, čili $1J = 1.602*10^{-19}eV$
+> - přenesením 1C přes napětí 1V vykonáme práci 1J, stejně tak přenesením $1.602*10^{-19}C$ přes napětí 1V "vykonáme" 1eV, čili $1eV = 1.602*10^{-19}J$ ($1J = 6.242*10^{18}eV$)
 
 > [!example]- V urychlovači LEP collider se elektrony urychlují na takovou rychlost, že faktor gamma dosahuje hodnoty 200 000. O kolik se liší jejich rychlost od rychlosti světa?
 > $$

@@ -11,7 +11,7 @@ tags:
 - Anglický básník, dramatik a herec.
 - Přesné datum narození není známo, pokřtěn byl v dubnu 1564 ve Stratfordu na Avonou (Anglie).
 - Považován za celosvětově největšího a nejvýznamnějšího dramatika, nebo také za anglického národního básníka. 
-- Přezdívka "*Bard Avonský*".
+- Přezdívka *Bard Avonský*.
 - Je mu připisováno přibližně 38 divadelních her, 154 sonetů a nespočet básní.
 - Vybudoval si úspěšnou kariéru jako herec, dramatik a spolumajitel souboru *Služebníci lorda komořího* (*Lord Chamberlain's Men*), později známý pod jménem *Královská společnost* (*King's men*).
 - Většinu svých známých děl napsal mezi lety 1589 a 1613. Zprvu tvořil komedie a hry založené na historických námětech, převážně z anglických dějin. Později, asi do roku 1608, psal své slavní tragédie, jako například *Hamlet* či *Macbeth*. Tyto tragédie jsou považovány za vrcholná díla anglické literatury.
