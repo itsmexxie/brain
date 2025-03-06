@@ -5,8 +5,8 @@ tags:
 ---
 - [ ] Karel Hynek Mácha
 # Základní informace
-| Prvek  | Hodnota                       |
-| ------ | ----------------------------- |
-| Období | [[8. České národní obrození]] |
+| Prvek  | Hodnota                                           |
+| ------ | ------------------------------------------------- |
+| Období | [[7. Romantismus]], [[8. České národní obrození]] |
 # Život
 # Dílo
